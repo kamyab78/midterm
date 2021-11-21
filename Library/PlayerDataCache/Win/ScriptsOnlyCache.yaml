@@ -614,4 +614,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/kamyab/Desktop/exam/midterm/midterm.exe
+  playerPath: C:/Users/kamyab/Desktop/exam/build/midterm.exe
